@@ -1,0 +1,27 @@
+name: 🐛 Bug
+description: File a bug report.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Steps to reproduce the behavior
+      value: |-
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error
+  - type: textarea
+    id: expect
+    attributes:
+      label: Expected Behaviour
+      description: Description of what you expected to happen
+      placeholder: Describe the expected behaviour here...
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional information
+      description: Description of what you expected to happen
+      placeholder: Add any other context about the problem here...
