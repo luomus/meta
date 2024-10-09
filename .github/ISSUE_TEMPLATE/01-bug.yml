@@ -2,7 +2,7 @@ name: 🐛 Bug
 description: File a bug report.
 title: "[Bug]: "
 labels: ["bug"]
-types: ["Bug"]
+type: "Bug"
 body:
   - type: textarea
     id: steps
