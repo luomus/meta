@@ -1,5 +1,5 @@
 name: 🐛 Bug
-about: For filing bug reports 
+description: For filing bug reports 
 title: "[Bug]: "
 labels: ["bug"]
 type: "Bug"
