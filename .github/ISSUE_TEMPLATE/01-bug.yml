@@ -1,6 +1,6 @@
 name: 🐛 Bug
 description: For filing bug reports 
-title: "[Bug]: "
+title: "Fix..."
 labels: ["bug"]
 type: "Bug"
 body:
