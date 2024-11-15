@@ -82,27 +82,27 @@
   {
     "name": "priodiversity-7.2.2",
     "description": "Priodiversity Task 7.2.2 Improving the metadata and sampling design of monitoring schemes",
-    "color": "#aaaaaa",
+    "color": "#aaaaaa"
   },
   {
     "name": "quick",
     "description": "Takes less than one day to complete",
-    "color": "#3de70f",
+    "color": "#3de70f"
   },
   {
     "name": "taxonomy",
     "description": "Taxonomy related issues",
-    "color": "#11c6d1",
+    "color": "#11c6d1"
   },
   {
     "name": "tettris-1.2",
     "description": "TETTRIs Physical reference collection task",
-    "color": "#bfdadc",
+    "color": "#bfdadc"
   },
   {
     "name": "urgent",
     "description": "This has to be done in the next two weeks (or will take all the time up until the deadline)",
-    "color": "#f509b4",
+    "color": "#f509b4"
   },
   {
     "name": "wontfix",
