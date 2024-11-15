@@ -1,0 +1,112 @@
+ [
+  {
+    "name": "blocked",
+    "description": "Is blocked by another task",
+    "color": "#b60205"
+  },
+  {
+    "name": "blocking",
+    "description": "Is blocking another task of equal or higher priority",
+    "color": "#92d8fa"
+  },
+  {
+    "name": "bug",
+    "description": "Something isn't working",
+    "color": "#d73a4a"
+  },
+  {
+    "name": "chore",
+    "description": "A task that does not require development work",
+    "color": "#fbca04"
+  },
+  {
+    "name": "data",
+    "description": "This concerns data",
+    "color": "#5319e7"
+  },
+  {
+    "name": "documentation",
+    "description": "Improvements or additions to documentation",
+    "color": "#0075ca"
+  },
+  {
+    "name": "duplicate",
+    "description": "This issue or pull request already exists",
+    "color": "#cfd3d7"
+  },
+  {
+    "name": "feature",
+    "description": "New feature or request",
+    "color": "#a2eeef"
+  },
+  {
+    "name": "firi-3.2",
+    "description": "FinBIF-FIRI Task 3.2 algorithms to identify birds and bats from sound recordings",
+    "color": "#4b7fbd"
+  },
+  {
+    "name": "funding needed",
+    "description": "Project funding is needed for this",
+    "color": "#6e8200"
+  },
+  {
+    "name": "important",
+    "description": "This task must be done",
+    "color": "#d93f0b"
+  },
+  {
+    "name": "improvement",
+    "description": "Fixes that are not really bugs and are not really new features",
+    "color": "#c96198"
+  },
+  {
+    "name": "infrastructure",
+    "description": "This task is related to IT infrastructure",
+    "color": "#e99695"
+  }
+  {
+    "name": "more info?",
+    "description": "Further information is requested",
+    "color": "#d876e3"
+  },
+  {
+    "name": "priodiversity-2.2.2",
+    "description": "Priodiversity Task 2.2.2 Data management plan (DMP) for the project and beyond",
+    "color": "#bfdadc"
+  },
+  {
+    "name": "priodiversity-7.2.1",
+    "description": "",
+    "color": "#aaaaaa"
+  },
+  {
+    "name": "priodiversity-7.2.2",
+    "description": "Priodiversity Task 7.2.2 Improving the metadata and sampling design of monitoring schemes",
+    "color": "#aaaaaa",
+  },
+  {
+    "name": "quick",
+    "description": "Takes less than one day to complete",
+    "color": "#3de70f",
+  },
+  {
+    "name": "taxonomy",
+    "description": "Taxonomy related issues",
+    "color": "#11c6d1",
+  },
+  {
+    "name": "tettris-1.2",
+    "description": "TETTRIs Physical reference collection task",
+    "color": "#bfdadc",
+  },
+  {
+    "name": "urgent",
+    "description": "This has to be done in the next two weeks (or will take all the time up until the deadline)",
+    "color": "#f509b4",
+  },
+  {
+    "name": "wontfix",
+    "description": "This will not be worked on",
+    "color": "#ffffff"
+  }
+]
