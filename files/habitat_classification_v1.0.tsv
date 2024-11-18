@@ -56,13 +56,13 @@ MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni
 				Dyynin kostea painanne
 MY.habitatEnumValue33	Sora-, somerikko- tai kivikkoranta		Sora-, somerikko- tai kivikkoranta	
 			Kallioranta	
-MY.habitatEnumValue31	Niittyranta		Rantaniitty tai niittyranta	
+MY.habitatEnumValue31	Niittyranta		Rantaniitty	
 				Laidunnettu rantaniitty
 				Suolamaa
 				Tulvaniitty
 MY.habitatEnumValue35	Avoin tulvaranta		Avoin tulvaranta	
 				Lieteranta
-MY.habitatEnumValue30	Luhtaranta		Avoluhta tai luhtaniitty - kasvipeitteinen	
+MY.habitatEnumValue30	Luhtaranta		Avoluhta tai luhtaniitty	
 MY.habitatEnumValue32	Ruovikko			Ruovikko
 				Kaislikko
 				Osmankäämikkö
