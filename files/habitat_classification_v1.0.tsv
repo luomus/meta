@@ -56,7 +56,7 @@ MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni
 				Dyynin kostea painanne
 MY.habitatEnumValue33	Sora-, somerikko- tai kivikkoranta		Sora-, somerikko- tai kivikkoranta	
 			Kallioranta	
-MY.habitatEnumValue31	Niittyranta		Rantaniitty/niittyranta	
+MY.habitatEnumValue31	Niittyranta		Rantaniitty tai niittyranta	
 				Laidunnettu rantaniitty
 				Suolamaa
 				Tulvaniitty
@@ -95,9 +95,9 @@ MY.habitatEnumValue26	Puro tai noro (kausikuiva)		Puro
 MY.habitatEnumValue36	Kalliot ja kivikot	Kallio tai kivikko		
 			Karu kallio	
 			Keskiravinteinen kallio	
-MY.habitatEnumValue41	Kalkkikallio tai -louhos, myös paljas kalkkimaa		Kalkkikallio tai -louhos, myös paljas kalkkimaa	
+MY.habitatEnumValue41	Kalkkikallio tai -louhos, (sis. paljas kalkkimaa)		Kalkkikallio tai -louhos (sis. paljas kalkkimaa)	
 MY.habitatEnumValue42	Serpentiinikallio tai -maa		Serpentiinikallio tai -maa	
-			Kalliorapauma / rapakivikallio	
+			Kalliorapauma tai rapakivikallio	
 MY.habitatEnumValue54	Jyrkänne tai pahta		Rotkot ja kurut	
 			Luolat ja halkeamat	
 MY.habitatEnumValue43	Kallioketo		Kallioketo	
@@ -121,7 +121,7 @@ MY.habitatEnumValue56	Perinneympäristöt	Perinneympäristö
 			Niitty	
 MY.habitatEnumValue57	Kuiva niitty tai keto			Kuiva niitty eli keto
 MY.habitatEnumValue59	Tuore niitty			Tuore niitty
-MY.habitatEnumValue61	Kostea niitty (muu kuin rantaniitty)			Kostea niitty (muu kuin rantaniitty)
+MY.habitatEnumValue61	Kostea niitty (pl. rantaniitty)			Kostea niitty (pl. rantaniitty)
 MY.habitatEnumValue60	Hakamaa, lehdesniitty tai metsälaidun		Hakamaa, lehdesniitty tai metsälaidun	
 				Hakamaa
 				Lehdesniitty
@@ -129,7 +129,7 @@ MY.habitatEnumValue60	Hakamaa, lehdesniitty tai metsälaidun		Hakamaa, lehdesnii
 MY.habitatEnumValue58	Nummi		Nummi	
 			Piennarniitty	
 MY.habitatEnumValue62	Suoniitty		Suoniitty	
-MY.habitatEnumValue79	Uuselinympäristöt	Uuselinympäristö/muu ihmisen muuttama ympäristö		
+MY.habitatEnumValue79	Uuselinympäristöt	Uuselinympäristö tai muu ihmisen muuttama ympäristö		
 MY.habitatEnumValue64	Oja tai muu kaivanto (sis. ojanpientareet, metsäojat)		Oja tai muu kaivanto (sis. metsäojat)	
 MY.habitatEnumValue66	Viljelymaat		Viljelymaat	
 MY.habitatEnumValue67	Pelto			Pelto
@@ -147,7 +147,7 @@ MY.habitatEnumValue77	Avoin nurmialue			Avoin nurmialue
 				Hautausmaa
 			Rakennus tai rakenne	
 MY.habitatEnumValue80	Tienvieri (piennar, luiska) ja -pohja		Tienvarsi	
-			Ruderaatti/joutomaa	
+			Ruderaatti tai joutomaa	
 			Ratavarsi tai ratapiha	
 			Satama	
 			Maankaatopaikka	
