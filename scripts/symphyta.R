@@ -17,7 +17,7 @@ library(chromote)
 session <- ChromoteSession$new()
 # open browser window
 session$view()
-# open taxon editor (log in manually user the browser)
+# open taxon editor (log in manually using the browser)
 session$Page$navigate("https://taxoneditor.laji.fi")
 
 old_input <- "input.obsoleteVernacularName___fi"
