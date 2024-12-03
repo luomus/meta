@@ -1,8 +1,8 @@
 ﻿Enum	Vihkon elinympäristö	1.taso	2. taso	3. taso
 MY.habitatEnumValue1	Metsät	Metsä		
 MY.habitatEnumValue2	Kangasmetsät		Kangasmetsä	
-MY.habitatEnumValue3	Tuore kangas			Lehtomainen kangas
-MY.habitatEnumValue4	Lehtomainen kangas			Tuore kangas
+MY.habitatEnumValue4	Lehtomainen kangas			Lehtomainen kangas
+MY.habitatEnumValue3	Tuore kangas			Tuore kangas
 				Kuivahko kangas 
 				kuiva ja karumpi kangas, jäkäläkangas
 MY.habitatEnumValue40	Kalliometsä		Kalliometsä	
