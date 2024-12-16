@@ -1,163 +1,163 @@
-﻿Enum	Vihkon elinympäristö	1.taso	2. taso	3. taso
-MY.habitatEnumValue1	Metsät	Metsä		
-MY.habitatEnumValue2	Kangasmetsät		Kangasmetsä	
-MY.habitatEnumValue4	Lehtomainen kangas			Lehtomainen kangas
-MY.habitatEnumValue3	Tuore kangas			Tuore kangas
-				Kuivahko kangas 
-				kuiva ja karumpi kangas, jäkäläkangas
-MY.habitatEnumValue40	Kalliometsä		Kalliometsä	
-MY.habitatEnumValue7	Lehdot		Lehto	
-MY.habitatEnumValue8	Kuiva lehto			Kuiva lehto
-MY.habitatEnumValue9	Tuore lehto			Tuore lehto
-MY.habitatEnumValue10	Kostea lehto			Kostea lehto
-			Tervaleppämetsä	
-				Tervaleppälehto
-				Tervaleppäkorpi
-				Tervaleppäluhta
-				Tervaleppävaltainen tulvametsä
-			Jalopuumetsä	
-MY.habitatEnumValue11	Jalopuulehto			Jalopuulehto
-				Jalopuustoinen kangasmetsä
-			Pähkinäpensaikko	
-				Pähkinälehto
-				Pähkinäpensaikko kangasmetsässä
-			Tulvametsä tai metsäluhta	
-				Tulvametsä
-MY.habitatEnumValue23	Metsäluhta			Metsäluhta
-			Dyynimetsä	
-			Tunturikoivikko	
-MY.habitatEnumValue12	Tunturikoivulehto			Tunturikoivulehto
-MY.habitatEnumValue13	Tunturikoivikko, ei lehto			Tunturikoivikko kangasmaalla
-MY.habitatEnumValue14	Suot	Suo		
-MY.habitatEnumValue15	Avosuot		Avosuo	
-MY.habitatEnumValue16	Letto		Letto	
-				Avoletto
-				Lettokorpi
-				Lettoräme
-MY.habitatEnumValue17	Neva		Neva	
-				Karu neva
-				Rehevä neva
-MY.habitatEnumValue18	Avoluhta		Avoluhta	
-MY.habitatEnumValue19	Puustoiset suot		Puustoinen suo	
-MY.habitatEnumValue20	Räme		Räme	
-				Karu räme
-				Rehevä räme
-MY.habitatEnumValue21	Korpi		Korpi	
-				Karu korpi
-				Rehevä korpi
-			Turvekangas	
-MY.habitatEnumValue22	Pensaikkoluhta		Pensaikkoluhta	
-MY.habitatEnumValue27	Rannat	Ranta		
-MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni	
-				Hiekkaranta
-				Rantavehnädyyni 
-				Harmaa dyyni
-				Variksenmarjadyyni 
-				Dyynin kostea painanne
-MY.habitatEnumValue33	Sora-, somerikko- tai kivikkoranta		Sora-, somerikko- tai kivikkoranta	
-			Kallioranta	
-MY.habitatEnumValue31	Niittyranta		Rantaniitty	
-				Laidunnettu rantaniitty
-				Suolamaa
-				Tulvaniitty
-MY.habitatEnumValue35	Avoin tulvaranta		Avoin tulvaranta	
-				Lieteranta
-MY.habitatEnumValue30	Luhtaranta		Avoluhta tai luhtaniitty	
-MY.habitatEnumValue32	Ruovikko			Ruovikko
-				Kaislikko
-				Osmankäämikkö
-MY.habitatEnumValue29	Rantapensaikko		Rantapensaikko	
-				Pajukko
-				Katajikko
-				Tyrnipensaikko 
-MY.habitatEnumValue22	Pensaikkoluhta			Pensaikkoluhta
-			Eroosiotörmä	
-MY.habitatEnumValue24	Vedet	Vesi		
-MY.habitatEnumValue89	Murtovesi		Itämeri	
-				Kova pohja
-				Pehmeä pohja
-			Flada tai kluuvi	
-			Jokisuisto	
-			Sisälahti	
-			Järvi tai lampi	
-MY.habitatEnumValue90	Karu järvi tai lampi			Karu järvi tai lampi
-MY.habitatEnumValue91	Rehevä järvi tai lampi			Rehevä järvi tai lampi
-MY.habitatEnumValue92	Lampare tai allikko		Lampare tai allikko	
-MY.habitatEnumValue25	Lähteikkö		Lähteikkö	
-				Huurresammallähteikkö
-				Muu avolähde
-				Muu tihkupinta
-MY.habitatEnumValue93	Joki		Joki	
-MY.habitatEnumValue94	Koski		Koski	
-			Putous tai köngäs	
-MY.habitatEnumValue26	Puro tai noro (kausikuiva)		Puro	
-			Noro (kausikuiva)	
-MY.habitatEnumValue36	Kalliot ja kivikot	Kallio tai kivikko		
-			Karu kallio	
-			Keskiravinteinen kallio	
-MY.habitatEnumValue41	Kalkkikallio tai -louhos, (sis. paljas kalkkimaa)		Kalkkikallio tai -louhos (sis. paljas kalkkimaa)	
-MY.habitatEnumValue42	Serpentiinikallio tai -maa		Serpentiinikallio tai -maa	
-			Kalliorapauma tai rapakivikallio	
-MY.habitatEnumValue54	Jyrkänne tai pahta		Rotkot ja kurut	
-			Luolat ja halkeamat	
-MY.habitatEnumValue43	Kallioketo		Kallioketo	
-MY.habitatEnumValue44	Tunturipaljakat	Tunturipaljakka		
-MY.habitatEnumValue45	Tunturikangas		Tunturikangas	
-MY.habitatEnumValue46	Tunturiniitty		Tunturiniitty	
-MY.habitatEnumValue47	Lumenviipymä		Lumenviipymä tai -pysymä	
-MY.habitatEnumValue48	Tunturikangaspensaikko		Tunturikangaspensaikko	
-MY.habitatEnumValue49	Paljakan lähteikkö tai tihkupinta		Paljakan lähteikkö tai tihkupinta	
-MY.habitatEnumValue50	Paljakan kallio tai kivikko		Paljakan kallio tai kivikko	
-				Paljakan karu ja keskiravinteinen kallio tai kivikko
-				Paljakan kalkkikallio tai -kivikko
-				Paljakan serpentiinikallio tai -kivikko
-				Paljakan rotko tai kuru
-				Vyörysoraikko
-MY.habitatEnumValue51	Paljakan suo		Paljakan suo	
-MY.habitatEnumValue52	Paljakan järvi tai lampi (sis. ranta)		Paljakan järvi tai lampi (sis. ranta)	
-MY.habitatEnumValue53	Paljakan virtavesi (sis. ranta)		Paljakan virtavesi (sis. ranta)	
-			Paljakan lampare tai allikko	
-MY.habitatEnumValue56	Perinneympäristöt	Perinneympäristö		
-			Niitty	
-MY.habitatEnumValue57	Kuiva niitty tai keto			Kuiva niitty eli keto
-MY.habitatEnumValue59	Tuore niitty			Tuore niitty
-MY.habitatEnumValue61	Kostea niitty (pl. rantaniitty)			Kostea niitty (pl. rantaniitty)
-MY.habitatEnumValue60	Hakamaa, lehdesniitty tai metsälaidun		Hakamaa, lehdesniitty tai metsälaidun	
-				Hakamaa
-				Lehdesniitty
-				Metsälaidun
-MY.habitatEnumValue58	Nummi		Nummi	
-			Piennarniitty	
-MY.habitatEnumValue62	Suoniitty		Suoniitty	
-MY.habitatEnumValue79	Uuselinympäristöt	Uuselinympäristö tai muu ihmisen muuttama ympäristö		
-MY.habitatEnumValue64	Oja tai muu kaivanto (sis. ojanpientareet, metsäojat)		Oja tai muu kaivanto (sis. metsäojat)	
-MY.habitatEnumValue66	Viljelymaat		Viljelymaat	
-MY.habitatEnumValue67	Pelto			Pelto
-MY.habitatEnumValue68	Kylvönurmi			Kylvönurmi
-MY.habitatEnumValue69	Puu- tai pensasviljelmä			Puu- tai pensasviljelmä
-MY.habitatEnumValue70	Hylätty pelto			Hylätty pelto
-				Kasvihuone
-MY.habitatEnumValue71	Puistot, pihamaat, puutarhat		Puisto, pihamaa tai puutarha	
-MY.habitatEnumValue72	Puisto			Puisto
-				Pihaketo tai pihaniitty
-MY.habitatEnumValue76	Puutarha			Puutarha
-MY.habitatEnumValue77	Avoin nurmialue			Avoin nurmialue
-				Pensaikko
-				Kartanopuisto
-				Hautausmaa
-			Rakennus tai rakenne	
-MY.habitatEnumValue80	Tienvieri (piennar, luiska) ja -pohja		Tienvarsi	
-			Ruderaatti tai joutomaa	
-			Ratavarsi tai ratapiha	
-			Satama	
-			Maankaatopaikka	
-			Täyttömaa-alue	
-			Lentokenttä	
-			Voimalinja	
-			Laskettelurinne	
-			Ampuma-alue tai armeijan harjoitusalue	
-			Urheilukenttä tai ravirata	
-MY.habitatEnumValue83	Hiekka- tai sorakuoppa		Hiekka- tai sorakuoppa	
-MY.habitatEnumValue84	Turpeennostoalue		Turpeennostoalue	
-MY.habitatEnumValue85	Louhos- tai kaivosalue		Louhos- tai kaivosalue	
-			Läjitysalue tai kaatopaikka	
+Enum	Vihkon elinympäristö	1.taso	2. taso	3. taso	Swedish	English
+MY.habitatEnumValue1	Metsät	Metsä			Skog	Forest
+MY.habitatEnumValue2	Kangasmetsät		Kangasmetsä		Moskog	Heath forest
+MY.habitatEnumValue4	Lehtomainen kangas			Lehtomainen kangas	Lundartad mo	Herb-rich heath forest
+MY.habitatEnumValue3	Tuore kangas			Tuore kangas	Frisk mo	Mesic heath forest
+				Kuivahko kangas 		
+				kuiva ja karumpi kangas, jäkäläkangas		
+MY.habitatEnumValue40	Kalliometsä		Kalliometsä		Skog på hällmark	Forest on rocky terrain
+MY.habitatEnumValue7	Lehdot		Lehto		Lund	Herb-rich forest
+MY.habitatEnumValue8	Kuiva lehto			Kuiva lehto	Torr lund	Dry herb-rich forest
+MY.habitatEnumValue9	Tuore lehto			Tuore lehto	Frisk lund	Mesic herb-rich forest
+MY.habitatEnumValue10	Kostea lehto			Kostea lehto	Fuktig lund	Moist herb-rich forest
+			Tervaleppämetsä			
+				Tervaleppälehto		
+				Tervaleppäkorpi		
+				Tervaleppäluhta		
+				Tervaleppävaltainen tulvametsä		
+			Jalopuumetsä			
+MY.habitatEnumValue11	Jalopuulehto			Jalopuulehto	Ädellövskog	Herb-rich forest with broadleaved deciduous trees
+				Jalopuustoinen kangasmetsä		
+			Pähkinäpensaikko			
+				Pähkinälehto		
+				Pähkinäpensaikko kangasmetsässä		
+			Tulvametsä tai metsäluhta			
+				Tulvametsä		
+MY.habitatEnumValue23	Metsäluhta			Metsäluhta	Skogs-madkärr	Swamp
+			Dyynimetsä			
+			Tunturikoivikko			
+MY.habitatEnumValue12	Tunturikoivulehto			Tunturikoivulehto	Fjällbjörkslund	Herb-rich mountain birch forests
+MY.habitatEnumValue13	Tunturikoivikko, ei lehto			Tunturikoivikko kangasmaalla	Fjällbjörkskog, ej lund	Mountain birch forest (excluding herb-rich mountain birch forest)
+MY.habitatEnumValue14	Suot	Suo			Myr	Mire
+MY.habitatEnumValue15	Avosuot		Avosuo		Öppen myr	Open mire
+MY.habitatEnumValue16	Letto		Letto		Rikkärr	Rich fen
+				Avoletto		
+				Lettokorpi		
+				Lettoräme		
+MY.habitatEnumValue17	Neva		Neva		Fattigkärr	Fen
+				Karu neva		
+				Rehevä neva		
+MY.habitatEnumValue18	Avoluhta		Avoluhta		Öppet madkärr	Open swamp
+MY.habitatEnumValue19	Puustoiset suot		Puustoinen suo		Trädbevuxen myr	Wooded mire
+MY.habitatEnumValue20	Räme		Räme		Mosse	Pine mire and bog
+				Karu räme		
+				Rehevä räme		
+MY.habitatEnumValue21	Korpi		Korpi		Skogkärr	Spruce mire
+				Karu korpi		
+				Rehevä korpi		
+			Turvekangas			
+MY.habitatEnumValue22	Pensaikkoluhta		Pensaikkoluhta		Busk-madkärr	Scrub swamp
+MY.habitatEnumValue27	Rannat	Ranta			Strand	Shore
+MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni		Sandstrand	Sand beach
+				Hiekkaranta		
+				Rantavehnädyyni 		
+				Harmaa dyyni		
+				Variksenmarjadyyni 		
+				Dyynin kostea painanne		
+MY.habitatEnumValue33	Sora-, somerikko- tai kivikkoranta		Sora-, somerikko- tai kivikkoranta		Grus- och klapperstenstrand	Gravel and shingle shores
+			Kallioranta			
+MY.habitatEnumValue31	Niittyranta		Rantaniitty		Ängstrand	Meadow shore
+				Laidunnettu rantaniitty		
+				Suolamaa		
+				Tulvaniitty		
+MY.habitatEnumValue35	Avoin tulvaranta		Avoin tulvaranta		Öppen översvämingsbenägna mark	Unvegetated flood shore
+				Lieteranta		
+MY.habitatEnumValue30	Luhtaranta		Avoluhta tai luhtaniitty		Madskärrstrand	Swamp shore
+MY.habitatEnumValue32	Ruovikko			Ruovikko	Vassruggar	Reedbed
+				Kaislikko		
+				Osmankäämikkö		
+MY.habitatEnumValue29	Rantapensaikko		Rantapensaikko		Strandbuskage	Shore scrub
+				Pajukko		
+				Katajikko		
+				Tyrnipensaikko 		
+MY.habitatEnumValue22	Pensaikkoluhta			Pensaikkoluhta	Busk-madkärr	Scrub swamp
+			Eroosiotörmä			
+MY.habitatEnumValue24	Vedet	Vesi			Vatten	Water
+MY.habitatEnumValue89	Murtovesi		Itämeri		Brackvatten	Brackish water
+				Kova pohja		
+				Pehmeä pohja		
+			Flada tai kluuvi			
+			Jokisuisto			
+			Sisälahti			
+			Järvi tai lampi			
+MY.habitatEnumValue90	Karu järvi tai lampi			Karu järvi tai lampi	Oligotrophic lake or pond	Oligotrophic lake or pond
+MY.habitatEnumValue91	Rehevä järvi tai lampi			Rehevä järvi tai lampi	Näringsrik sjö eller tjärna	Eutrophic lake or pond
+MY.habitatEnumValue92	Lampare tai allikko		Lampare tai allikko		Göl	Small pond
+MY.habitatEnumValue25	Lähteikkö		Lähteikkö		Källa och källkärr	Spring complex
+				Huurresammallähteikkö		
+				Muu avolähde		
+				Muu tihkupinta		
+MY.habitatEnumValue93	Joki		Joki		Å	River
+MY.habitatEnumValue94	Koski		Koski		Fors	Rapids
+			Putous tai köngäs			
+MY.habitatEnumValue26	Puro tai noro (kausikuiva)		Puro		Bäck	Streams or a brook
+			Noro (kausikuiva)			
+MY.habitatEnumValue36	Kalliot ja kivikot	Kallio tai kivikko			Hällmark och stenfält	Rock outcrop and scree
+			Karu kallio			
+			Keskiravinteinen kallio			
+MY.habitatEnumValue41	Kalkkikallio tai -louhos, (sis. paljas kalkkimaa)		Kalkkikallio tai -louhos (sis. paljas kalkkimaa)		Kalkhäll och stenbrott, bar kalkjord	Calcareous rock outcrop and quarry, bare calcareous land
+MY.habitatEnumValue42	Serpentiinikallio tai -maa		Serpentiinikallio tai -maa		Serpentinberg och -mark	Serpentine rock outcrop or land
+			Kalliorapauma tai rapakivikallio			
+MY.habitatEnumValue54	Jyrkänne tai pahta		Rotkot ja kurut		Bergsbrant	Rock face
+			Luolat ja halkeamat			
+MY.habitatEnumValue43	Kallioketo		Kallioketo		Hällmarkstorräng	Rock meadow
+MY.habitatEnumValue44	Tunturipaljakat	Tunturipaljakka			Kalfjäll	Fell area
+MY.habitatEnumValue45	Tunturikangas		Tunturikangas		Fjällhed	Mountain heath
+MY.habitatEnumValue46	Tunturiniitty		Tunturiniitty		Fjälläng	Mountain meadow
+MY.habitatEnumValue47	Lumenviipymä		Lumenviipymä tai -pysymä		Snölega	Snowbed
+MY.habitatEnumValue48	Tunturikangaspensaikko		Tunturikangaspensaikko		Fjällhedbuskage	Mountain heath scrub
+MY.habitatEnumValue49	Paljakan lähteikkö tai tihkupinta		Paljakan lähteikkö tai tihkupinta		Kärr på kalfjäll	Oroarctic/mountain spring complexes and habitats
+MY.habitatEnumValue50	Paljakan kallio tai kivikko		Paljakan kallio tai kivikko		Hällmark eller stenfält på kalfjäll	Oroarctic/ rocky outcrop and scree
+				Paljakan karu ja keskiravinteinen kallio tai kivikko		
+				Paljakan kalkkikallio tai -kivikko		
+				Paljakan serpentiinikallio tai -kivikko		
+				Paljakan rotko tai kuru		
+				Vyörysoraikko		
+MY.habitatEnumValue51	Paljakan suo		Paljakan suo		Myrmark på kalfjäll	Oroarctic mountain mire
+MY.habitatEnumValue52	Paljakan järvi tai lampi (sis. ranta)		Paljakan järvi tai lampi (sis. ranta)		Sjö och tjärna (inkl. strand) på kalfjäll	Oroarctic/mountain lake
+MY.habitatEnumValue53	Paljakan virtavesi (sis. ranta)		Paljakan virtavesi (sis. ranta)		Oroarctic/mountain brookside or a stream	Oroarctic/mountain brookside or a stream
+			Paljakan lampare tai allikko			
+MY.habitatEnumValue56	Perinneympäristöt	Perinneympäristö			Vårdbiotop	Rural biotopes and cultural habitats
+			Niitty			
+MY.habitatEnumValue57	Kuiva niitty tai keto			Kuiva niitty eli keto	Torräng	Dry meadow
+MY.habitatEnumValue59	Tuore niitty			Tuore niitty	Frisk äng	Mesic meadow
+MY.habitatEnumValue61	Kostea niitty (pl. rantaniitty)			Kostea niitty (pl. rantaniitty)	Fuktäng (annan än strandäng)	Moist meadow (other than shore meadow)
+MY.habitatEnumValue60	Hakamaa, lehdesniitty tai metsälaidun		Hakamaa, lehdesniitty tai metsälaidun		Hagmark, hamlingsäng eller skogsbete	Wooded pasture and meadow
+				Hakamaa		
+				Lehdesniitty		
+				Metsälaidun		
+MY.habitatEnumValue58	Nummi		Nummi		Hed	Heath
+			Piennarniitty			
+MY.habitatEnumValue62	Suoniitty		Suoniitty		Kärräng	Fen meadow
+MY.habitatEnumValue79	Uuselinympäristöt	Uuselinympäristö tai muu ihmisen muuttama ympäristö			Nytthabitat	Secondary habitats
+MY.habitatEnumValue64	Oja tai muu kaivanto (sis. ojanpientareet, metsäojat)		Oja tai muu kaivanto (sis. metsäojat)		Dike eller annat schakt (inkl. dikesren)	Ditch or other excavation
+MY.habitatEnumValue66	Viljelymaat		Viljelymaat		Odlingsmark	Agricultural land
+MY.habitatEnumValue67	Pelto			Pelto	Åker	Field
+MY.habitatEnumValue68	Kylvönurmi			Kylvönurmi	Odlad vall	Lawn or grass
+MY.habitatEnumValue69	Puu- tai pensasviljelmä			Puu- tai pensasviljelmä	Träd- och buskodling	Tree and bush plantation
+MY.habitatEnumValue70	Hylätty pelto			Hylätty pelto	Övergiven åker	Abandoned field
+				Kasvihuone		
+MY.habitatEnumValue71	Puistot, pihamaat, puutarhat		Puisto, pihamaa tai puutarha		Park, gårdsplan, trädgård	Park, courtyard or garden
+MY.habitatEnumValue72	Puisto			Puisto	Park	Park
+				Pihaketo tai pihaniitty		
+MY.habitatEnumValue76	Puutarha			Puutarha	Trädgård	Garden
+MY.habitatEnumValue77	Avoin nurmialue			Avoin nurmialue	Öppen grässmark	Open grass
+				Pensaikko		
+				Kartanopuisto		
+				Hautausmaa		
+			Rakennus tai rakenne			
+MY.habitatEnumValue80	Tienvieri (piennar, luiska) ja -pohja		Tienvarsi		Vägkant (ren, ramp)	Roadsides (verges, banks, on the road etc.)
+			Ruderaatti tai joutomaa			
+			Ratavarsi tai ratapiha			
+			Satama			
+			Maankaatopaikka			
+			Täyttömaa-alue			
+			Lentokenttä			
+			Voimalinja			
+			Laskettelurinne			
+			Ampuma-alue tai armeijan harjoitusalue			
+			Urheilukenttä tai ravirata			
+MY.habitatEnumValue83	Hiekka- tai sorakuoppa		Hiekka- tai sorakuoppa		Sand- och grusgrop	Sand and gravel pit
+MY.habitatEnumValue84	Turpeennostoalue		Turpeennostoalue		Torvproduktionsområde	Peat production area
+MY.habitatEnumValue85	Louhos- tai kaivosalue		Louhos- tai kaivosalue		Stenbrott- och gruvområde	Quarry and mine area
+			Läjitysalue tai kaatopaikka			
