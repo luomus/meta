@@ -3,8 +3,8 @@ MY.habitatEnumValue1	Metsät	Metsä			Skog	Forest	Metsä
 MY.habitatEnumValue2	Kangasmetsät		Kangasmetsä		Moskog	Heath forest	Kangasmetsä		
 MY.habitatEnumValue4	Lehtomainen kangas			Lehtomainen kangas	Lundartad mo	Herb-rich heath forest	Lehtomainen kangas	Lundartad mo	Herb-rich heath forest
 MY.habitatEnumValue3	Tuore kangas			Tuore kangas	Frisk mo	Mesic heath forest	Tuore kangas	Frisk mo	Mesic heath forest
-				Kuivahko kangas 			Kuivahko kangas	Tämligen torr mo	Sub-xeric heath forest
-				kuiva ja karumpi kangas, jäkäläkangas			kuiva ja karumpi kangas, jäkäläkangas		
+MY.habitatEnumValue5				Kuivahko kangas 			Kuivahko kangas	Tämligen torr mo	Sub-xeric heath forest
+				kuiva ja karumpi kangas, jäkäläkangas			Kuiva ja karumpi kangas, jäkäläkangas		
 MY.habitatEnumValue40	Kalliometsä		Kalliometsä		Skog på hällmark	Forest on rocky terrain	Kalliometsä	Skog på hällmark	Forest on rocky terrain
 MY.habitatEnumValue7	Lehdot		Lehto		Lund	Herb-rich forest	Lehto		
 MY.habitatEnumValue8	Kuiva lehto			Kuiva lehto	Torr lund	Dry herb-rich forest	Kuiva lehto	Torr lund	Dry herb-rich forest
@@ -49,7 +49,7 @@ MY.habitatEnumValue21	Korpi		Korpi		Skogkärr	Spruce mire	Korpi	Skogkärr	Spruce
 MY.habitatEnumValue22	Pensaikkoluhta		Pensaikkoluhta		Busk-madkärr	Scrub swamp	Pensaikkoluhta	Busk-madkärr	Scrub swamp
 MY.habitatEnumValue27	Rannat	Ranta			Strand	Shore	Ranta		
 MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni		Sandstrand	Sand beach	Hiekkaranta tai dyyni		
-				Hiekkaranta			Hiekkaranta	Sandstrand	sand beach
+				Hiekkaranta			Hiekkaranta	Sandstrand	Sand beach
 				Rantavehnädyyni 			Rantavehnädyyni	Vandrande dyn med strandråg	White dune (shifting dune with lyme grass)
 				Harmaa dyyni			Harmaa dyyni	Grå dyn	Grey dune (fixed coastal dune with herbaceus vegetation)
 				Variksenmarjadyyni 			Variksenmarjadyyni	Dyn med kråkris	Brown dune (fixed coastal dune with crowberry)
@@ -64,8 +64,8 @@ MY.habitatEnumValue35	Avoin tulvaranta		Avoin tulvaranta		Öppen översvämingsb
 				Lieteranta			Lieteranta	Slamstrand	Silt shore
 MY.habitatEnumValue30	Luhtaranta		Avoluhta tai luhtaniitty		Madskärrstrand	Swamp shore	Avoluhta tai luhtaniitty		
 MY.habitatEnumValue32	Ruovikko			Ruovikko	Vassruggar	Reedbed	Ruovikko	Vassruggar	Reedbed
-				Kaislikko			Kaislikko	Sävbestånd	Reedbed with Schoenoplectus or Bolboschoenus 
-				Osmankäämikkö			Osmankäämikkö	Kaveldun	Reedbed with Typha
+				Kaislikko			Kaislikko	Sävbestånd	Reedbed with schoenoplectus or bolboschoenus 
+				Osmankäämikkö			Osmankäämikkö	Kaveldun	Reedbed with typha
 MY.habitatEnumValue29	Rantapensaikko		Rantapensaikko		Strandbuskage	Shore scrub	Rantapensaikko	Strandbuskage	Shore scrub
 				Pajukko			Pajukko	Videbuskage	Willow thicket
 				Katajikko			Katajikko	Enbuskage	Juniper thicket
@@ -143,20 +143,20 @@ MY.habitatEnumValue72	Puisto			Puisto	Park	Park	Puisto	Park	Park
 				Pihaketo tai pihaniitty			Pihaketo tai pihaniitty		
 MY.habitatEnumValue76	Puutarha			Puutarha	Trädgård	Garden	Puutarha	Trädgård	Garden
 MY.habitatEnumValue77	Avoin nurmialue			Avoin nurmialue	Öppen grässmark	Open grass	Avoin nurmialue	Öppen grässmark	Open grass
-				Pensaikko			Pensaikko	Buskage	Scrub
-				Kartanopuisto			Kartanopuisto	Herrgård park	Manor garden
-				Hautausmaa			Hautausmaa	Begravningsplats	Graveyard
+MY.habitatEnumValue78				Pensaikko			Pensaikko	Buskage	Scrub
+MY.habitatEnumValue73				Kartanopuisto			Kartanopuisto	Herrgård park	Manor garden
+MY.habitatEnumValue74				Hautausmaa			Hautausmaa	Begravningsplats	Graveyard
 			Rakennus tai rakenne				Rakennus tai rakenne		
 MY.habitatEnumValue80	Tienvieri (piennar, luiska) ja -pohja		Tienvarsi		Vägkant (ren, ramp)	Roadsides (verges, banks, on the road etc.)	Tienvarsi		
 			Ruderaatti tai joutomaa				Ruderaatti tai joutomaa	Ruderat	Ruderal
 			Ratavarsi tai ratapiha				Ratavarsi tai ratapiha	Järnväg eller bangård	Railway or railway yard
-			Satama				Satama	hamnområde	Harbour area
-			Maankaatopaikka				Maankaatopaikka	Jordtipp	Dumping area
-			Täyttömaa-alue				Täyttömaa-alue	Markfyllningsområde	Fill-up soil
+			Satama				Satama	Hamnområde	Harbour area
+MY.habitatEnumValue81			Maankaatopaikka				Maankaatopaikka	Jordtipp	Dumping area
+MY.habitatEnumValue82			Täyttömaa-alue				Täyttömaa-alue	Markfyllningsområde	Fill-up soil
 			Lentokenttä				Lentokenttä	Flygfält	Airport
 			Voimalinja				Voimalinja	Kraftledning	Power line
 			Laskettelurinne				Laskettelurinne	Slalombacke	Ski slope
-			Ampuma-alue tai armeijan harjoitusalue				Ampuma-alue tai armeijan harjoitusalue	skjutbana eller militär område	Shooting or practice range
+			Ampuma-alue tai armeijan harjoitusalue				Ampuma-alue tai armeijan harjoitusalue	Skjutbana eller militär område	Shooting or practice range
 			Urheilukenttä tai ravirata				Urheilukenttä tai ravirata	Idrottsplan eller travbana	Sports ground or racecourse
 MY.habitatEnumValue83	Hiekka- tai sorakuoppa		Hiekka- tai sorakuoppa		Sand- och grusgrop	Sand and gravel pit	Hiekka- tai sorakuoppa	Sand- och grusgrop	Sand and gravel pit
 MY.habitatEnumValue84	Turpeennostoalue		Turpeennostoalue		Torvproduktionsområde	Peat production area	Turpeennostoalue	Torvproduktionsområde	Peat production area
