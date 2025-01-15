@@ -35,24 +35,24 @@ MY.habitatEnumValue16	Letto		Letto		Rikkärr	Rich fen	Letto	Rikkärr	Rich fen
 				Lettokorpi			Lettokorpi	Rikkärrsartade skogskärr	Rich spruce-birch fen
 				Lettoräme			Lettoräme	Rikkärr-tallkärr	Rich pine fen
 MY.habitatEnumValue17	Neva		Neva		Fattigkärr	Fen	Neva	Fattigkärr	Fen
-				Karu neva			Karu neva	näringsfattiga öppna mossar	bog
-				Rehevä neva			Rehevä neva	näringsrika öppna kärr	poor fen
+				Karu neva			Karu neva	Näringsfattiga öppna mossar	Bog
+				Rehevä neva			Rehevä neva	Näringsrika öppna kärr	Poor fen
 MY.habitatEnumValue18	Avoluhta		Avoluhta		Öppet madkärr	Open swamp	Avoluhta	Öppet madkärr	Open swamp
 MY.habitatEnumValue19	Puustoiset suot		Puustoinen suo		Trädbevuxen myr	Wooded mire	Puustoinen suo		
 MY.habitatEnumValue20	Räme		Räme		Mosse	Pine mire and bog	Räme	Mosse	Pine mire and bog
-				Karu räme			Karu räme	näringsfattiga tallmossar	poor pine bog
-				Rehevä räme			Rehevä räme	näringsrika tallmossar	rich pine mire
+				Karu räme			Karu räme	Näringsfattiga tallmossar	Poor pine bog
+				Rehevä räme			Rehevä räme	Näringsrika tallmossar	Rich pine mire
 MY.habitatEnumValue21	Korpi		Korpi		Skogkärr	Spruce mire	Korpi	Skogkärr	Spruce mire
-				Karu korpi			Karu korpi	intermediära skogkärr	poor spruce mire
-				Rehevä korpi			Rehevä korpi	näringsrika skogkärr	rich spruce mire
+				Karu korpi			Karu korpi	Intermediära skogkärr	Poor spruce mire
+				Rehevä korpi			Rehevä korpi	Näringsrika skogkärr	Rich spruce mire
 			Turvekangas				Turvekangas		
 MY.habitatEnumValue22	Pensaikkoluhta		Pensaikkoluhta		Busk-madkärr	Scrub swamp	Pensaikkoluhta	Busk-madkärr	Scrub swamp
 MY.habitatEnumValue27	Rannat	Ranta			Strand	Shore	Ranta		
 MY.habitatEnumValue34	Hietikkoranta		Hiekkaranta tai dyyni		Sandstrand	Sand beach	Hiekkaranta tai dyyni		
 				Hiekkaranta			Hiekkaranta	Sandstrand	sand beach
-				Rantavehnädyyni 			Rantavehnädyyni	Vandrande dyn med strandråg	white dune (shifting dune with lyme grass)
+				Rantavehnädyyni 			Rantavehnädyyni	Vandrande dyn med strandråg	White dune (shifting dune with lyme grass)
 				Harmaa dyyni			Harmaa dyyni	Grå dyn	Grey dune (fixed coastal dune with herbaceus vegetation)
-				Variksenmarjadyyni 			Variksenmarjadyyni	Dyn med kråkris	brown dune (fixed coastal dune with crowberry)
+				Variksenmarjadyyni 			Variksenmarjadyyni	Dyn med kråkris	Brown dune (fixed coastal dune with crowberry)
 				Dyynin kostea painanne			Dyynin kostea painanne	Dynvåtmark	Humid dune slack
 MY.habitatEnumValue33	Sora-, somerikko- tai kivikkoranta		Sora-, somerikko- tai kivikkoranta		Grus- och klapperstenstrand	Gravel and shingle shores	Sora-, somerikko- tai kivikkoranta	Grus- och klapperstenstrand	Gravel and shingle shore
 			Kallioranta				Kallioranta	Klippig strand	Rocky shore
