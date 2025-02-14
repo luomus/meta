@@ -93,6 +93,7 @@ checklist <- transform(
     NA_character_,
     sub("taxonid:", "http://taxonid.org/", taxonConceptID)
   ),
+  genericName = genus,
   scientificName = ifelse(
     is.na(scientificNameAuthorship),
     scientificName,
@@ -103,7 +104,6 @@ checklist <- transform(
     NA_character_,
     vernacularName
   ),
-  scientificNameAuthorship = NULL,
   language = "fi",
   domain = NULL,
   subphylum = NULL,
@@ -132,6 +132,13 @@ checklist <- transform(checklist, scientificName = sub("'", "", scientificName))
 checklist <- transform(
   checklist,
   specificEpithet = vapply(strsplit(scientificName, " "), \(x) x[[2L]], "")
+)
+
+checklist <- transform(
+  checklist,
+  parentNameUsage = ifelse(
+    taxonRank == "species", genus, paste(genus, specificEpithet)
+  )
 )
 
 checklist <- subset(
