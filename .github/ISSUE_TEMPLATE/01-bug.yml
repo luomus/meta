@@ -1,8 +1,20 @@
 name: 🐛 Bug
 description: For filing bug reports 
-title: "Fix..."
 type: "Bug"
 body:
+body:
+  - type: markdown
+    attributes:
+      value: "## Title"
+  - type: markdown
+    attributes:
+      value: |-
+        Write the title in active voice using a clear subject–verb–object structure, starting with the affected component or feature,
+        followed by a precise description of the issue and its impact, while avoiding vague wording or unnecessary detail.
+        Examples
+        - [Dataset metadata editor] [does not save] [multilingual descriptions]
+        - Species occurrence map does not display records from restricted datasets
+        - Observation import fails when coordinate uncertainty is missing
   - type: textarea
     id: steps
     attributes:
