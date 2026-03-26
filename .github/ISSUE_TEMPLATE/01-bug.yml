@@ -2,11 +2,16 @@ name: 🐛 Bug
 description: For filing bug reports 
 type: "Bug"
 body:
-body:
   - type: markdown
     attributes:
-      label: Add a title
-      description: Write the title in active voice using a clear subject–verb–object structure, starting with the affected component or feature, followed by a precise description of the issue and its impact, while avoiding vague wording or unnecessary detail
+      value: "### Add a title"
+  - type: markdown
+    attributes:
+      value: |-
+       Write the title in active voice using a clear subject–verb–object structure, starting with the affected component or
+       feature, followed by a precise description of the issue and its impact, while avoiding vague wording or unnecessary detail
+  - type: markdown
+    attributes:
       value: |-
         Examples
         - [Dataset metadata editor] [does not save] [multilingual descriptions]
