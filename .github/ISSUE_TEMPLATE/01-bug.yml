@@ -1,6 +1,7 @@
 name: 🐛 Bug
 description: For filing bug reports 
 type: "Bug"
+projects: "luomus/7"
 body:
   - type: markdown
     attributes:
